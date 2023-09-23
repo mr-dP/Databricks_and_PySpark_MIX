@@ -51,7 +51,3 @@ print(flatMapRDD.count())
 # COMMAND ----------
 
 
-
-# COMMAND ----------
-
-
